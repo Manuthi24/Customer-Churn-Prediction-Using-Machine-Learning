@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised%20Learning-green)
+![Scikit‑Learn](https://img.shields.io/badge/Scikit--Learn-Modeling-yellow)
+![XGBoost](https://img.shields.io/badge/XGBoost‑Boosting‑Model-orange)
+![EDA](https://img.shields.io/badge/EDA‑Exploratory%20Data%20Analysis-lightgrey)
+![Data Visualization](https://img.shields.io/badge/Data‑Visualization-red)
+![Model Serialization](https://img.shields.io/badge/Serialization‑Pickle-blueviolet)
+![Portfolio Project](https://img.shields.io/badge/Type‑Portfolio%20Project-important)
+
+
 # 📊 Customer Churn Prediction Using Machine Learning
 
 This project predicts customer churn for a telecommunications company using machine learning.  
